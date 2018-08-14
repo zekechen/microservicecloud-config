@@ -4,7 +4,6 @@ spring:
   profiles: dev
   application:
     name:microervicecloud-config-client
-
 eureka:
   client:
     service-url:
@@ -16,7 +15,6 @@ spring:
    profiles: test
    application:
      name:microervicecloud-config-client
-
 eureka:
   client:
     service-url:
